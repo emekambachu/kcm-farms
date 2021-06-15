@@ -85,23 +85,6 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, asperiores doloribus eum laboriosam praesentium delectus unde magni aut perspiciatis cumque deserunt dolore voluptate, autem pariatur? Dicta pariatur.</p>
                     </div>
                     <div class="sidebar-modal-widget">
-                        <h3 class="title">Additional Links</h3>
-                        <ul>
-                            <li>
-                                <a href="log-in.html">Log In</a>
-                            </li>
-                            <li>
-                                <a href="sign-up.html">Sign Up</a>
-                            </li>
-                            <li>
-                                <a href="faq.html">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="#">Logout</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="sidebar-modal-widget">
                         <h3 class="title">Contact Info</h3>
                         <ul class="contact-info">
                             <li>
@@ -384,6 +367,20 @@
 
 <!--====== Main js ======-->
 <script src="{{ asset('assets/js/main.js') }}"></script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/60c87e7d7f4b000ac037af9c/1f87is7ap';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 
 </body>
 
