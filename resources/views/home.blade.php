@@ -339,8 +339,8 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="about-us-content">
                         <h3 class="title">Our CEO</h3>
-                        <p>Kattie M. Campbell, Our CEO and Livestock investor, explores how agricultural innovation is contributing to Zurich farmers combat climate challenges on his 13,000-acre farm.</p>
-                        <p>Kattie M. Campbell had a remarkable educational experience in Management and Agriculture. He studied Business Administration in HWZ University of Applied Sciences, Zurich. He got his Bachelor's degree in Business Administration and Management and a Masters degree in Agricultural Business and Management.</p>
+                        <p>Kattie M. Campbell, Our CEO and Livestock investor, explores how agricultural innovation is contributing to Zurich farmers combat climate challenges on her 13,000-acre farm.</p>
+                        <p>Kattie M. Campbell had a remarkable educational experience in Management and Agriculture. He studied Business Administration in HWZ University of Applied Sciences, Zurich. She got her Bachelor's degree in Business Administration and Management and a Masters degree in Agricultural Business and Management.</p>
                     </div>
                 </div>
             </div>

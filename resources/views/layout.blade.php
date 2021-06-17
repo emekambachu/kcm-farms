@@ -302,7 +302,7 @@
                     <ul>
                         <li><a href="tel:+1(682) 214-3361"><i class="fal fa-mobile"></i> +1(682) 214-3361</a></li>
                         <li><a href="mailto:info@kcmfarms.com"><i class="fal fa-envelope-open-text"></i> info@kcmfarms.com</a></li>
-                        <li><a href="#"><i class="far fa-map-marker-alt"></i> 200K Camden Borough, 2nd London, United KingdoN</a></li>
+                        <li><a href="#"><i class="far fa-map-marker-alt"></i> Zurich, Switzerland</a></li>
                     </ul>
                 </div>
             </div>

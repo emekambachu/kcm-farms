@@ -85,8 +85,7 @@
                                 <div class="contact-info-item text-center">
                                     <i class="fal fa-map-marked-alt"></i>
                                     <ul>
-                                        <li>27 Division St, New York,</li>
-                                        <li>NY 10002,USA</li>
+                                        <li>Zurich, Switzerland</li>
                                     </ul>
                                 </div>
                             </div>
