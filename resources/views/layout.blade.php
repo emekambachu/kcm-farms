@@ -82,7 +82,7 @@
                 <div class="modal-body">
                     <div class="sidebar-modal-widget">
                         <h3 class="title">About Us</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, asperiores doloribus eum laboriosam praesentium delectus unde magni aut perspiciatis cumque deserunt dolore voluptate, autem pariatur? Dicta pariatur.</p>
+                        <p>Welcome to Ketti M. Farms very first community supporting agriculture (CSA) farm which been growing food, fun, and community spirit from the ground up for 34 years.</p>
                     </div>
                     <div class="sidebar-modal-widget">
                         <h3 class="title">Contact Info</h3>
@@ -100,7 +100,7 @@
                             <li>
                                 <i class="far fa-phone"></i>
                                 Phone
-                                <span>+1(682) 214-3361</span>
+                                <span>+1(682) 214-3661</span>
                             </li>
                         </ul>
                     </div>
@@ -158,8 +158,8 @@
                             <div class="item">
                                 <i class="fal fa-phone"></i>
                                 <span>Phone Number</span>
-                                <a href="tel:+12345678999">
-                                    <h5 class="title">+1(682) 214-3361</h5>
+                                <a href="tel:+1(682) 214-3661">
+                                    <h5 class="title">+1(682) 214-3661</h5>
                                 </a>
                             </div>
                             <div class="item">
@@ -300,7 +300,7 @@
                 <div class="footer-info mt-30">
                     <h3 class="title">Feel Free Don’t Hesitate To Contact With Us Or Call Us</h3>
                     <ul>
-                        <li><a href="tel:+1(682) 214-3361"><i class="fal fa-mobile"></i> +1(682) 214-3361</a></li>
+                        <li><a href="tel:+1(682) 214-3661"><i class="fal fa-mobile"></i> +1(682) 214-3661</a></li>
                         <li><a href="mailto:info@kcmfarms.com"><i class="fal fa-envelope-open-text"></i> info@kcmfarms.com</a></li>
                         <li><a href="#"><i class="far fa-map-marker-alt"></i> Zurich, Switzerland</a></li>
                     </ul>

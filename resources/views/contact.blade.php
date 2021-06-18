@@ -101,7 +101,7 @@
                                 <div class="contact-info-item text-center">
                                     <i class="fal fa-phone"></i>
                                     <ul>
-                                        <li>+1(682) 214-3361</li>
+                                        <li>+1(682) 214-3661</li>
                                     </ul>
                                 </div>
                             </div>
